@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489653254 source:c:\users\administrator\documents\visual studio 2015\codeblocks_projects\c++primer4\chap4\hohoho\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+
