@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1489305694 source:c:\users\administrator\documents\visual studio 2015\codeblocks_projects\peking1001\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+	<string>
+	<map>
+
